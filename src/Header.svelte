@@ -1,22 +1,12 @@
-<h1>This is the header</h1>
+<script>
+</script>
 
-
+<div class="headder">
+  <h2>this is the headder</h2>
+</div>
 
 <style>
-     h1{
-    color: purple;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: large;
- 
+  .headder {
+    background-color: orange;
   }
-
-
-
 </style>
-
-
-
-
-
-

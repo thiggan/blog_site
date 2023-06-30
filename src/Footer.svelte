@@ -1,11 +1,12 @@
-<h4>
-    This is the footer
-</h4>
+<script>
+</script>
+
+<div class="footer">
+  <h2>this is the footer</h2>
+</div>
 
 <style>
-    h4{
-        color: orchid;
-        font-family: 'Comic Sans';
-        font-weight:normal;
-    }
+  .footer {
+    background-color:red;
+  }
 </style>

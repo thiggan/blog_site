@@ -1,11 +1,12 @@
-<h3>Navbar</h3>
+<script>
+</script>
+
+<div class="navbar">
+  <h2>this is the navbar</h2>
+</div>
 
 <style>
-    h3{
-        color:red;
-        font-family: 'Times New Roman', Times, serif;
-        font-weight: bold;
-    
-        
-    }
+  .navbar {
+    background-color:green;
+  }
 </style>

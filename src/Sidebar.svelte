@@ -1,14 +1,12 @@
-<p>this is the sidebar</p>
+<script>
+</script>
+
+<div class="sidebar">
+  <h2>this is the sidebar</h2>
+</div>
 
 <style>
- 
-    p{
-      color: blue;
-      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-      font-weight: lighter;
-      font-size:x-large;
-    }
-  
-    
-  
-  </style>
+  .sidebar {
+    background-color:purple;
+  }
+</style>
