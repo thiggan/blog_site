@@ -6,7 +6,16 @@
 </div>
 
 <style>
-  .footer {
-    background-color:red;
-  }
+    .footer {
+  clear: left;
+  grid-column: 1/4;
+  text-align: center;
+  color: white;
+  background-color:red;
+  padding: 15px;
+  margin-top: 15px;
+}
+  
+
+  
 </style>

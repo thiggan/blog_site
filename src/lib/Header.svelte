@@ -1,12 +1,21 @@
 <script>
 </script>
 
-<div class="headder">
-  <h2>this is the headder</h2>
+<div class="header">
+  <h2>this is the header</h2>
 </div>
 
 <style>
-  .headder {
-    background-color: orange;
+  .header {
+   
+    clear: left;
+  grid-column: 1/4;
+  text-align: center;
+  color: white;
+  background-color: orange;
+  padding: 15px;
+  margin-top: 15px;
   }
+
+
 </style>
